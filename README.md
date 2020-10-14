@@ -14,9 +14,14 @@ numbered 1-6.
 3. TRADING_AMOUNT
 4. STOP_LOSS_PRICE
 5. TAKE_PROFIT_PRICE
-6. Gas_Speed_Preference
+6. GAS_SPEED_PREFERENCE
 
 Once these are filled out your on to the last step...
+
+
+
+
+
 
 INSTALL:
 
