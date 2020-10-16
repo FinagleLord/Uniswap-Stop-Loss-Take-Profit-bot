@@ -10,18 +10,16 @@ Next, you'll want to open the index.js file, inside you'll find variables
 numbered 1-6. 
 
 1. DAI_CONTRACT_ADDRESS                            <--- Default is testnet be sure to change contract addresses if you plan to use Mainnet!!!
+
 2. UNISWAP_EXCHANGE_DAI_CONTRACT_ADDRESS           <--- Default is testnet be sure to change contract addresses if you plan to use Mainnet!!!    
+
 3. TRADING_AMOUNT
+
 4. STOP_LOSS_PRICE
+
 5. TAKE_PROFIT_PRICE
+
 6. GAS_SPEED_PREFERENCE
-
-Once these are filled out your on to the last step...
-
-
-
-
-
 
 INSTALL:
 
