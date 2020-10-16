@@ -3,10 +3,7 @@ Bot Instructions:
 First things first, you're going to want to find the .env.example file, 
 open it up and you'll find some variabless you need to fill out, such as
 your API_KEY, PORT, and PRIVATE_KEY. Once filled out, rename the file 
-to '.env'
-
-
-Next, you'll want to open the index.js file, inside you'll find variables 
+to '.env' Next, you'll want to open the index.js file, inside you'll find variables 
 numbered 1-6. 
 
 1. DAI_CONTRACT_ADDRESS                            <--- Default is testnet be sure to change contract addresses if you plan to use Mainnet!!!
